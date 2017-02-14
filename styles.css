@@ -1,0 +1,68 @@
+.body {
+	background-color: light-grey;
+}
+
+.nav {
+	padding-bottom: 0px;
+    margin-bottom: 0px;
+    float: left;
+    width: 200px;
+    background: #eee;
+    position: static;
+    height: 100%;
+}
+
+.w3-btn {
+	background-color: #AA3939;
+	border-color: white;
+	font-family: "Roboto", sans-serif;
+	font-size: 20px;
+	color: white;
+}
+
+.music:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
+
+.music{
+	float: left;
+	margin-left: 20px;
+	background-color: light-grey;
+}
+
+.music h1 {
+	font-size: 14px;
+	font-family: "Roboto", sans-serif;
+	color: #FFAAAA;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*#fa1 {
+	font-size: 80px;
+}*/
+
+/*#fa2 {
+	font-size: 80px;
+}*/
+
+/*#fa3 {
+	font-size: 80px;
+}*/
+
